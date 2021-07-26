@@ -6,8 +6,8 @@ I'm a Front-end dev passionate about developing amazing layouts. Because my miss
 
  <div>
   <a href="https://github.com/Eduardo-Vitesse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Vitesse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Vitesse&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  🦾 My skills
@@ -22,4 +22,4 @@ I'm a Front-end dev passionate about developing amazing layouts. Because my miss
 
 "Everything has a good side and a bad side, you just decide which one to look at."
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Eduardo-Vitesse/blob/output/github-contribution-grid-snake.svg)
