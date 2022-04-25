@@ -1,16 +1,31 @@
-# Luiz Eduardo Vitesse 
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Luiz Eduardo</h1>
 
-### Hey! Welcome to my profile! How is it going? 👋😁
+🔥 Engenheiro de Software - FrontEnd<br>
 
-I'm a Front-end dev passionate about developing amazing layouts. Because my mission as a dev is to impress, excite and delight people using technology.
+<br>
 
- 🦾 My skills
- - REACT  🚀
- - HTML5 ⭐
- - CSS3 🤩
- - SCSS 😍
- - JAVASCIRPT 🔥
+<div align="left">
+  <a href="https://github.com/Eduardo-Vitesse">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Vitesse&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Vitesse&layout=compact&langs_count=7&theme=outrun"/>
+</div>
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1471b6?style=for-the-badge)&nbsp;
+![React](https://img.shields.io/badge/-React-62dafb?style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/-Git-f34f28?style=for-the-badge)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-100e0f?style=for-the-badge)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0065a9?style=for-the-badge)&nbsp;
 
-[![Linkedin Badge](https://camo.githubusercontent.com/a9d413435371b306fac2ff4d1dcfa85877d9deb93bb90ce7d8444b260d7a9922/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f697361646f72612d726f647269677565732d7374616e6761726c696e2d3438343032623134312f)](https://www.linkedin.com/in/luiz-eduardo-floriano-silva-66611b181/)  [![Instagram Badge](https://camo.githubusercontent.com/995893e1a358c25b4713c038a26b475b1c2c29b3f1a154e8967ae1b790db5f61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d76696f6c65743f7374796c653d666c61742d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f7061706f64656465762f)](https://www.instagram.com/eduardovitesse.dev/)
 
-"Everything has a good side and a bad side, you just decide which one to look at."
+<br>
+
+## 🧑🏾‍🦱 &nbsp;Social Links
+
+<a href="https://www.linkedin.com/in/luizeduardofsilva/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Luiz Eduardo F. Silva-141338?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/luiz.eduardo.fs/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/luiz.eduardo.fs-141338?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
