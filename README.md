@@ -1,6 +1,6 @@
-<h1 align="left">Olá 👋, eu sou o Luiz Eduardo</h1>
+<h1 align="left">Hi 👋, I'm Luiz Eduardo</h1>
 
-🔥 Engenheiro de Software - FrontEnd<br>
+🔥 Software Engineer<br>
 
 <br>
 
