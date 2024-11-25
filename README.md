@@ -5,9 +5,9 @@
 <br>
 
 <div align="left">
-  <a href="https://github.com/Eduardo-Vitesse">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Vitesse&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Vitesse&layout=compact&langs_count=7&theme=outrun"/>
+  <a href="https://github.com/luizeduardofs">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=luizeduardofs&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardofs&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge)&nbsp;
